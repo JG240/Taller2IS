@@ -79,3 +79,4 @@ Vas a ver tu árbol dibujado y comparado contra el diagrama objetivo del taller,
 
 Sitio personal donde muestro mis proyectos y como contactarme.
 ## Aqui puedes encontrar todo lo relacionado con uso de git
+## Comunicate con nosotros ante cualquier duda 
